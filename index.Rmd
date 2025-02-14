@@ -1,6 +1,6 @@
 ---
 title: "Taylor Hatcher"
-image: "612A5644.jpg"
+image: "TaylorHatcher.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/taylor-hatcher-6461a922b/"
