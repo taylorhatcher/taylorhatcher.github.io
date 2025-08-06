@@ -8,7 +8,7 @@ links:
     url: "https://github.com/taylorhatcher"
   - label: Email
     url: "taymhatcher@gmail.com"
-  - label: CV
+  - label: Curriculum Vitae
     url: "https://docs.google.com/document/d/1JEXwLeE_sauQNw9xHf3O_4gto01p5d95wiMT5YcotgE/edit?usp=sharing"
 output:
   postcards::trestles
